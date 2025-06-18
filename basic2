@@ -1,3 +1,4 @@
 from basic import chai 
 
 chai(" shabh shaba"  )
+print(chai)
